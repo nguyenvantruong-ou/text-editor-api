@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cL5kh7BeVpACwMTf5H+9lMycT4G0uKLXYORouGYu7J2VWUevDimBsh9d6fUt/RAWAdGjvva7YYNNs3DHGn5QHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\NCKH\\TextEditor_Back_end\\TextEditor\\E-Payment\\E-Payment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\braintreehttp-dotnet\\0.3.0\\braintreehttp-dotnet.0.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\paypal\\2.0.0-rc2\\paypal.2.0.0-rc2.nupkg.sha512"
+  ],
+  "logs": []
+}

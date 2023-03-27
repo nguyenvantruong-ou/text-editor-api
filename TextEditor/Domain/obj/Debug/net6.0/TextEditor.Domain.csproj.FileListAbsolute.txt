@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\TextEditor.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\TextEditor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\TextEditor.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\TextEditor.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\TextEditor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\bin\Debug\net6.0\TextEditor.Domain.deps.json
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\bin\Debug\net6.0\TextEditor.Domain.runtimeconfig.json
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\bin\Debug\net6.0\TextEditor.Domain.dll
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\bin\Debug\net6.0\TextEditor.Domain.pdb
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\TextEditor.Domain.dll
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\refint\TextEditor.Domain.dll
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\TextEditor.Domain.pdb
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\TextEditor.Domain.genruntimeconfig.cache
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\Domain\obj\Debug\net6.0\ref\TextEditor.Domain.dll

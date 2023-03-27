@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\bin\Debug\net6.0\TextEditor.SharedKernel.deps.json
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\bin\Debug\net6.0\TextEditor.SharedKernel.dll
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\bin\Debug\net6.0\TextEditor.SharedKernel.pdb
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\TextEditor.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\TextEditor.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\TextEditor.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\TextEditor.SharedKernel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\TextEditor.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\TextEditor.SharedKernel.dll
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\refint\TextEditor.SharedKernel.dll
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\TextEditor.SharedKernel.pdb
+C:\Users\Admin\Desktop\NCKH\TextEditor_Back_end\TextEditor\TextEditor.SharedKernel\obj\Debug\net6.0\ref\TextEditor.SharedKernel.dll

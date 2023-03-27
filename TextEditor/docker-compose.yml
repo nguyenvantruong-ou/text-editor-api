@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  texteditor.api:
+    image: ${DOCKER_REGISTRY-}texteditorapi
+    build:
+      context: .
+      dockerfile: API\Dockerfile

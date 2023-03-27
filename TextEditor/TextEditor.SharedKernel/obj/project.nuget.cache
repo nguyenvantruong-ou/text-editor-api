@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F5TVdYSEWsW7BrmCiEOC1BwecaK5Dty+W9uR2jF8pmiNV6eEn7hf16vikDjIoY6oeJBrjqe86lVk7TDmStsU1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\NCKH\\TextEditor_Back_end\\TextEditor\\TextEditor.SharedKernel\\TextEditor.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
